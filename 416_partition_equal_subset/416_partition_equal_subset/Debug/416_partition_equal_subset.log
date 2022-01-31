@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\lenovo\Desktop\leetcode\Dynamic_Programming\416_partition_equal_subset\416_partition_equal_subset\源.cpp(12,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\Desktop\leetcode\Dynamic_Programming\416_partition_equal_subset\416_partition_equal_subset\源.cpp(19,20): warning C4018: “<”: 有符号/无符号不匹配
+  416_partition_equal_subset.vcxproj -> C:\Users\lenovo\Desktop\leetcode\Dynamic_Programming\416_partition_equal_subset\Debug\416_partition_equal_subset.exe
